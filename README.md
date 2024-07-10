@@ -73,12 +73,12 @@ def run_camera_detection():
     cv2.destroyAllWindows()
 
 if __name__ == "__main__":
-    main()```
+    main()
+```
+# installation
+![Screenshot 2024-07-10 214037](https://github.com/Hafizfaturrohman/PengolahanCitra_UAS/assets/115616365/6edee362-2f86-4496-8bb7-9045af52a397)
 
-# Installation
-![Screenshot 2024-07-10 214037](https://github.com/Hafizfaturrohman/UTS_PengolahanCitra/assets/115616365/bedd63b2-3c2a-4112-b83d-b2691834ac9f)
+# Hasil UTS
+![Screenshot 2024-07-10 213622](https://github.com/Hafizfaturrohman/PengolahanCitra_UAS/assets/115616365/396a8a2b-d19b-45d6-9521-304422bd4361)
 
-# Hasil Project UTS
-![Screenshot 2024-07-10 213622](https://github.com/Hafizfaturrohman/UTS_PengolahanCitra/assets/115616365/e2cb2f2d-605b-4dbb-8ac0-1807426174df)
-
-![Screenshot 2024-07-10 214412](https://github.com/Hafizfaturrohman/UTS_PengolahanCitra/assets/115616365/d5dfec5a-7d27-4b3c-8340-5631aaa16a1f)
+![Screenshot 2024-07-10 214412](https://github.com/Hafizfaturrohman/PengolahanCitra_UAS/assets/115616365/e0c07bfb-d7b4-476d-a0ec-c226f698d5f9)
