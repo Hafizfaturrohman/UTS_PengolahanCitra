@@ -1,4 +1,4 @@
-https://github.com/Hafizfaturrohman/UTS_PengolahanCitra.git
+https://github.com/Hafizfaturrohman/PengolahanCitra_UAS.git
 
 # Project UTS
 Simpan kode berikut dalam file bernama app.py
